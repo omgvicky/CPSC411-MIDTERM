@@ -1,7 +1,7 @@
 # Victoria Tran 
 # CWID: 889773024
 # CS 411 MIDTERM 
-#This is part 2 of the coding portion of the exam. Coding Portion Part 1 is in the main.swift 
+# This is part 2 of the coding portion of the exam. Coding Portion Part 1 is in the main.swift 
 
 ---------------------------------------------------
 
